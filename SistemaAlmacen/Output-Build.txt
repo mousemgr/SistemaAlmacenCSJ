@@ -1,0 +1,9 @@
+﻿Building SistemaAlmacen...
+1>------ Publish started: Project: SistemaAlmacen, Configuration: Debug Any CPU ------
+1>  SistemaAlmacen -> C:\Users\LUISE\documents\visual studio 2013\SISJAG\SistemaAlmacen\SistemaAlmacen\bin\Debug\SistemaAlmacen.exe
+Connecting to 'C:\Users\LUISE\Desktop\Sistema Almacen Jaguar\'...
+Publishing files...
+Publish success.
+C:\Users\LUISE\Desktop\Sistema Almacen Jaguar\
+========== Build: 0 succeeded, 0 failed, 1 up-to-date, 0 skipped ==========
+========== Publish: 1 succeeded, 0 failed, 0 skipped ==========

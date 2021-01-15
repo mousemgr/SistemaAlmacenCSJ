@@ -1,0 +1,67 @@
+c:\users\luise\documents\visual studio 2013\SISJAG\SistemaAlmacen\SistemaAlmacen\bin\Debug\SistemaAlmacen.exe.config
+c:\users\luise\documents\visual studio 2013\SISJAG\SistemaAlmacen\SistemaAlmacen\bin\Debug\SistemaAlmacen.exe
+c:\users\luise\documents\visual studio 2013\SISJAG\SistemaAlmacen\SistemaAlmacen\bin\Debug\SistemaAlmacen.pdb
+c:\users\luise\documents\visual studio 2013\SISJAG\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.csprojResolveAssemblyReference.cache
+c:\users\luise\documents\visual studio 2013\SISJAG\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Properties.Resources.resources
+c:\users\luise\documents\visual studio 2013\SISJAG\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.csproj.GenerateResource.Cache
+c:\users\luise\documents\visual studio 2013\SISJAG\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.exe
+c:\users\luise\documents\visual studio 2013\SISJAG\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.pdb
+C:\Users\LUISE\documents\visual studio 2013\SISJAG\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.login.resources
+C:\Users\LUISE\documents\visual studio 2013\SISJAG\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Main.resources
+C:\Users\LUISE\documents\visual studio 2013\SISJAG\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.ReciboAlmacen.resources
+C:\Users\LUISE\documents\visual studio 2013\SISJAG\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.VerRecibo.resources
+C:\Users\LUISE\documents\visual studio 2013\SISJAG\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.EmbarqueAlmacen.resources
+C:\Users\LUISE\documents\visual studio 2013\SISJAG\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.InventarioAlmacen.resources
+C:\Users\LUISE\documents\visual studio 2013\SISJAG\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.VerEmbarques.resources
+C:\Users\LUISE\documents\visual studio 2013\SISJAG\SistemaAlmacen\SistemaAlmacen\bin\Debug\SistemaAlmacen.exe.manifest
+C:\Users\LUISE\documents\visual studio 2013\SISJAG\SistemaAlmacen\SistemaAlmacen\bin\Debug\SistemaAlmacen.application
+C:\Users\LUISE\documents\visual studio 2013\SISJAG\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.exe.manifest
+C:\Users\LUISE\documents\visual studio 2013\SISJAG\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.application
+C:\Users\LUISE\documents\visual studio 2013\SISJAG\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.RemisionWF.resources
+E:\Sistemas Jaguar\Sistema Almacen\Proyecto\SistemaAlmacen\SistemaAlmacen\bin\Debug\SistemaAlmacen.exe.config
+E:\Sistemas Jaguar\Sistema Almacen\Proyecto\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.exe
+E:\Sistemas Jaguar\Sistema Almacen\Proyecto\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.pdb
+E:\Sistemas Jaguar\Sistema Almacen\Proyecto\SistemaAlmacen\SistemaAlmacen\bin\Debug\SistemaAlmacen.exe.manifest
+E:\Sistemas Jaguar\Sistema Almacen\Proyecto\SistemaAlmacen\SistemaAlmacen\bin\Debug\SistemaAlmacen.application
+E:\Sistemas Jaguar\Sistema Almacen\Proyecto\SistemaAlmacen\SistemaAlmacen\bin\Debug\SistemaAlmacen.exe
+E:\Sistemas Jaguar\Sistema Almacen\Proyecto\SistemaAlmacen\SistemaAlmacen\bin\Debug\SistemaAlmacen.pdb
+E:\Sistemas Jaguar\Sistema Almacen\Proyecto\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.csprojResolveAssemblyReference.cache
+E:\Sistemas Jaguar\Sistema Almacen\Proyecto\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.EmbarqueAlmacen.resources
+E:\Sistemas Jaguar\Sistema Almacen\Proyecto\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.InventarioAlmacen.resources
+E:\Sistemas Jaguar\Sistema Almacen\Proyecto\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.login.resources
+E:\Sistemas Jaguar\Sistema Almacen\Proyecto\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Main.resources
+E:\Sistemas Jaguar\Sistema Almacen\Proyecto\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Properties.Resources.resources
+E:\Sistemas Jaguar\Sistema Almacen\Proyecto\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.ReciboAlmacen.resources
+E:\Sistemas Jaguar\Sistema Almacen\Proyecto\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.RemisionWF.resources
+E:\Sistemas Jaguar\Sistema Almacen\Proyecto\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.VerEmbarques.resources
+E:\Sistemas Jaguar\Sistema Almacen\Proyecto\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.VerRecibo.resources
+E:\Sistemas Jaguar\Sistema Almacen\Proyecto\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.csproj.GenerateResource.Cache
+E:\Sistemas Jaguar\Sistema Almacen\Proyecto\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.exe.manifest
+E:\Sistemas Jaguar\Sistema Almacen\Proyecto\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.application
+C:\Users\mouse\Documents\Sistemas Jaguar\Sistema Almacen\Proyecto\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.csprojAssemblyReference.cache
+C:\Users\mouse\Documents\Sistemas Jaguar\Sistema Almacen\Proyecto\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.EmbarqueAlmacen.resources
+C:\Users\mouse\Documents\Sistemas Jaguar\Sistema Almacen\Proyecto\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.InventarioAlmacen.resources
+C:\Users\mouse\Documents\Sistemas Jaguar\Sistema Almacen\Proyecto\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.login.resources
+C:\Users\mouse\Documents\Sistemas Jaguar\Sistema Almacen\Proyecto\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Main.resources
+C:\Users\mouse\Documents\Sistemas Jaguar\Sistema Almacen\Proyecto\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Properties.Resources.resources
+C:\Users\mouse\Documents\Sistemas Jaguar\Sistema Almacen\Proyecto\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.ReciboAlmacen.resources
+C:\Users\mouse\Documents\Sistemas Jaguar\Sistema Almacen\Proyecto\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.RemisionWF.resources
+C:\Users\mouse\Documents\Sistemas Jaguar\Sistema Almacen\Proyecto\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.VerEmbarques.resources
+C:\Users\mouse\Documents\Sistemas Jaguar\Sistema Almacen\Proyecto\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.VerRecibo.resources
+C:\Users\mouse\Documents\Sistemas Jaguar\Sistema Almacen\Proyecto\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.csproj.GenerateResource.cache
+C:\Users\mouse\Documents\Sistemas Jaguar\Sistema Almacen\Proyecto\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.exe
+C:\Users\mouse\Documents\Sistemas Jaguar\Sistema Almacen\Proyecto\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.pdb
+D:\Mis Documentos\00 Google Drive\CLMX_JAGUAR\Sistemas Jaguar\Sistema Almacen\Proyecto\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.csprojAssemblyReference.cache
+D:\Mis Documentos\00 Google Drive\CLMX_JAGUAR\Sistemas Jaguar\Sistema Almacen\Proyecto\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.EmbarqueAlmacen.resources
+D:\Mis Documentos\00 Google Drive\CLMX_JAGUAR\Sistemas Jaguar\Sistema Almacen\Proyecto\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.InventarioAlmacen.resources
+D:\Mis Documentos\00 Google Drive\CLMX_JAGUAR\Sistemas Jaguar\Sistema Almacen\Proyecto\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.login.resources
+D:\Mis Documentos\00 Google Drive\CLMX_JAGUAR\Sistemas Jaguar\Sistema Almacen\Proyecto\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Main.resources
+D:\Mis Documentos\00 Google Drive\CLMX_JAGUAR\Sistemas Jaguar\Sistema Almacen\Proyecto\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Properties.Resources.resources
+D:\Mis Documentos\00 Google Drive\CLMX_JAGUAR\Sistemas Jaguar\Sistema Almacen\Proyecto\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.ReciboAlmacen.resources
+D:\Mis Documentos\00 Google Drive\CLMX_JAGUAR\Sistemas Jaguar\Sistema Almacen\Proyecto\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.RemisionWF.resources
+D:\Mis Documentos\00 Google Drive\CLMX_JAGUAR\Sistemas Jaguar\Sistema Almacen\Proyecto\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.VerEmbarques.resources
+D:\Mis Documentos\00 Google Drive\CLMX_JAGUAR\Sistemas Jaguar\Sistema Almacen\Proyecto\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.VerRecibo.resources
+D:\Mis Documentos\00 Google Drive\CLMX_JAGUAR\Sistemas Jaguar\Sistema Almacen\Proyecto\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.csproj.GenerateResource.cache
+D:\Mis Documentos\00 Google Drive\CLMX_JAGUAR\Sistemas Jaguar\Sistema Almacen\Proyecto\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.csproj.CoreCompileInputs.cache
+D:\Mis Documentos\00 Google Drive\CLMX_JAGUAR\Sistemas Jaguar\Sistema Almacen\Proyecto\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.exe
+D:\Mis Documentos\00 Google Drive\CLMX_JAGUAR\Sistemas Jaguar\Sistema Almacen\Proyecto\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.pdb
